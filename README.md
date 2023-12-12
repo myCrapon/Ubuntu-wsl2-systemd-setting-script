@@ -15,7 +15,7 @@ sudo apt install git
 to do so.
 ### Run the script and commands
 ```sh
-git clone https://github.com/myCrapon/Ubuntu-wsl2-systemd-setting-script
+git clone https://github.com/myCrapon/Ubuntu-wsl2-systemd-setting-script.git
 cd Ubuntu-wsl2-systemd-setting-script/
 bash ubuntu-wsl2-systemd-script.sh
 # Enter your password and wait until the script has finished
