@@ -23,7 +23,6 @@ bash ubuntu-wsl2-systemd-script.sh
 ### Then restart the Ubuntu shell and try running systemctl
 ```sh
 systemctl
-
 ```
 If you don't get an error and see a list of units, the script worked.
 
